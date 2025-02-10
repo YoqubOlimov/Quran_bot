@@ -1,0 +1,23 @@
+# Python fayllari
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual muhit
+venv/
+.env
+*.env
+
+# Django va Aiogram loglari va kesh fayllari
+*.log
+*.sqlite3
+db.sqlite3
+media/
+static/
+
+# IDE va tizim fayllari
+.vscode/
+.idea/
+*.swp
+.DS_Store
